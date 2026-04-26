@@ -42,16 +42,25 @@ const { t } = inject("i18n");
 const router = useRouter();
 
 const photos = [
-  "/photos/1.jpg",
-  "/photos/2.jpg",
-  "/photos/3.jpg",
-  "/photos/4.jpg",
-  "/photos/5.jpg",
-  "/photos/6.jpg",
-  "/photos/7.jpg",
-  "/photos/8.jpg",
-  "/photos/9.jpg",
-  "/photos/10.jpg",
+  "/photos/17.jpg",
+  "/photos/17.jpg",
+  "/photos/17.jpg",
+  "/photos/17.jpg",
+  "/photos/17.jpg",
+  "/photos/17.jpg",
+  "/photos/17.jpg",
+  "/photos/17.jpg",
+  "/photos/17.jpg",
+  "/photos/18.png",
+  // "/photos/2.jpg",
+  // "/photos/3.jpg",
+  // "/photos/4.jpg",
+  // "/photos/5.jpg",
+  // "/photos/6.jpg",
+  // "/photos/7.jpg",
+  // "/photos/8.jpg",
+  // "/photos/9.jpg",
+  // "/photos/10.jpg",
 ];
 
 const idx = ref(0);
